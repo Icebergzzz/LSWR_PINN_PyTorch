@@ -7,6 +7,9 @@ PyTorch version of LSWR_loss_function_PINN, both GPU and CPU version
 The code is constantly being updated...
    
    
+
+
+
    
 01_pure_bend   
 ![01_pure_bend](./01_pure_bend/CPU/LLL.png)   
