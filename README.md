@@ -1,2 +1,2 @@
 # LSWR_PINN_PyTorch
-PyTorch version of LSWR_loss_function_PINN
+PyTorch version of LSWR_loss_function_PINN, both GPU and CPU version
