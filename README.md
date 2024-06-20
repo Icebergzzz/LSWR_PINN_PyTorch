@@ -13,8 +13,8 @@ Paper Author: [Jinshuai Bai](https://github.com/JinshuaiBai)
 # Results   
 - **01_pure_bend**  
 <p align="center">
-  <img src="./01_pure_bend/CPU/LLL.png" width="500">
-  <img src="./01_pure_bend/GPU/LLL.png" width="500">
+  <img src="./01_pure_bend/CPU/LLL.png" width="1000">
+  <img src="./01_pure_bend/GPU/LLL.png" width="1000">
 </p>    
 
 
