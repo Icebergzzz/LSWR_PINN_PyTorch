@@ -12,6 +12,10 @@ Paper Author: [Jinshuai Bai](https://github.com/JinshuaiBai)
 
 # Results   
 - **01_pure_bend**  
-![01_pure_bend](./01_pure_bend/CPU/LLL.png)   
+<p align="center">
+  <img src="./01_pure_bend/CPU/LLL.png" width="500">
+  <img src="./01_pure_bend/GPU/LLL.png" width="500">
+</p>    
+
 
 # The code is constantly being updated...
