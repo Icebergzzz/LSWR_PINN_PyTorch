@@ -1,3 +1,7 @@
 # LSWR_PINN_PyTorch
 PyTorch version of LSWR_loss_function_PINN, both GPU and CPU version   
+
+
+
+   
 The code is constantly being updated...
