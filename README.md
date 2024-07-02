@@ -16,8 +16,8 @@ Paper Author: [Jinshuai Bai](https://github.com/JinshuaiBai)
 # Results   
 - **01_pure_bend**  
 <p align="center">
-  <img src="./01_pure_bend/Error analysis/Error.png" width="1000">
-  
+  <img src="./01_pure_bend/Error analysis/Error_CPU.png" width="1000">
+  <img src="./01_pure_bend/Error analysis/Error_GPU.png" width="1000">
 </p>    
 
 
