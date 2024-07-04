@@ -18,7 +18,14 @@ Paper Author: [Jinshuai Bai](https://github.com/JinshuaiBai)
 <p align="center">
   <img src="./01_pure_bend/Error analysis/Error_GPU_CPU.png" width="1000">
 
-</p>    
+</p>   
 
+
+
+- **01_pure_bend_rand**  
+<p align="center">
+  <img src="./01_pure_bend_rand/Error analysis/Error_GPU_CPU_Random.png" width="1000">
+
+</p>  
 
 # The code is constantly being updated...
