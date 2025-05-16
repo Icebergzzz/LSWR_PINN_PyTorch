@@ -8,9 +8,9 @@ A physics-informed neural network technique based on a modified loss function fo
 
 Code: [LSWR_loss_function_PINN](https://github.com/JinshuaiBai/LSWR_loss_function_PINN)       
 
-Paper link: [https://doi.org/10.1007/s00466-022-02252-0](https://link.springer.com/article/10.1007/s00466-022-02252-0)    
+Reference link: [https://doi.org/10.1007/s00466-022-02252-0](https://link.springer.com/article/10.1007/s00466-022-02252-0)    
 
-Paper Author: [Jinshuai Bai](https://github.com/JinshuaiBai)
+Author of reference: [Jinshuai Bai](https://github.com/JinshuaiBai)
    
 
 # Results   
